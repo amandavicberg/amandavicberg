@@ -3,14 +3,12 @@
 Estudante de Sistemas de Informação | Desenvolvedora Full Stack | Apaixonada por tecnologia e aprendizado contínuo
 
 
-
 🎓 Estudante de Sistemas de Informação no Unifoa (5º período)
 
 💼 Desenvolvedora Full Stack na VR TECH desde o 2º período
 
 💡 Sempre em busca de novos desafios e aprimoramento profissional
 </br>
-
 
 🛠️ Tecnologias que utilizo/estudo
 
@@ -28,7 +26,7 @@ Estudante de Sistemas de Informação | Desenvolvedora Full Stack | Apaixonada p
 🚀 Projetos em andamento
 
 Projeto 1: Lista de tarefas com ReactNative.
-
+</br>
 
 📈 Estatísticas do GitHub
 
