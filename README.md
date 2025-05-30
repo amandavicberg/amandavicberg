@@ -8,7 +8,7 @@ Estudante de Sistemas de Informação | Desenvolvedora Full Stack | Apaixonada p
 💼 Desenvolvedora Full Stack na VR TECH desde o 2º período
 
 💡 Sempre em busca de novos desafios e aprimoramento profissional
-</br>
+<br />
 
 🛠️ Tecnologias que utilizo/estudo
 
@@ -21,12 +21,12 @@ Estudante de Sistemas de Informação | Desenvolvedora Full Stack | Apaixonada p
 - Mobile: React Native
   
 - Ferramentas: Git, GitHub, Visual Studio Code, Visual Studio
-</br>
+<br />
 
 🚀 Projetos em andamento
 
 Projeto 1: Lista de tarefas com ReactNative.
-</br>
+<br />
 
 📈 Estatísticas do GitHub
 
@@ -42,7 +42,7 @@ Projeto 1: Lista de tarefas com ReactNative.
 💼 LinkedIn
 
 📧 amandavicbergamasco@gmail.com
-</br>
+<br />
 
 🎯 Objetivos
 
