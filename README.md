@@ -30,11 +30,10 @@ Projeto 1: Lista de tarefas com ReactNative.
 
 📈 Estatísticas do GitHub
 
-<div>
 <a href="https://github.com/amandavicberg">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavicberg&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandavicberg&theme=dracula&hide_border=false"/>
-</div>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=amandavicberg&theme=dracula)](https://git.io/streak-stats)
 
 
 📬 Vamos conversar?
