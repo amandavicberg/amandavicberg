@@ -3,9 +3,9 @@
 Estudante de Sistemas de Informação | Desenvolvedora Full Stack | Apaixonada por tecnologia e aprendizado contínuo
 
 
-🎓 Estudante de Sistemas de Informação no Unifoa (5º período)
+🎓 Estudante de Sistemas de Informação no Unifoa (6º período)
 
-💼 Desenvolvedora Full Stack na VR TECH desde o 2º período
+💼 Desenvolvedora Full Stack na VR TECH desde o 2º período da faculdade
 
 💡 Sempre em busca de novos desafios e aprimoramento profissional
 <br />
