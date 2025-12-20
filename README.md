@@ -126,12 +126,15 @@ Sistema de Gerenciamento de Clientes – C# / .NET
 
 API para cadastro, atualização, listagem e exclusão de clientes, aplicando arquitetura em camadas e boas práticas de desenvolvimento.
 
+
 📈 Estatísticas do GitHub
+
 <a href="https://github.com/amandavicberg"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavicberg&layout=compact&langs_count=7&theme=dracula"/> </a> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=amandavicberg&theme=dracula"/> </a>
+
 
 📬 Contato
 
-💼 LinkedIn: (https://www.linkedin.com/in/amanda-bergamasco-840972211/)
+💼 LinkedIn: https://www.linkedin.com/in/amanda-bergamasco-840972211/
 
 📧 Email: amandavicbergamasco@gmail.com
 
@@ -143,5 +146,3 @@ Continuar evoluindo como desenvolvedora full stack
 Aprofundar conhecimentos em back-end e arquitetura de software
 
 Atuar em projetos desafiadores que proporcionem crescimento técnico e profissional
-
--->
