@@ -26,6 +26,7 @@ Estudante de Sistemas de Informação | Desenvolvedora Full Stack | Apaixonada p
 🚀 Projetos em andamento
 
 Projeto 1: Lista de tarefas com ReactNative.
+Ptojeto 2: Sistema de gerenciamento de cliente com C#.
 <br />
 
 📈 Estatísticas do GitHub
