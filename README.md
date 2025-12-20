@@ -1,33 +1,34 @@
 🌸 Amanda Bergamasco
 
 Estudante de Sistemas de Informação | Desenvolvedora Full Stack
+
 Focada em desenvolvimento de software, aprendizado contínuo e soluções bem estruturadas.
+
 
 🎓 Formação Acadêmica
 
-Sistemas de Informação – UniFOA
-6º período
+Sistemas de Informação, UniFOA - 6º período
 
-Durante a graduação, tive contato com diversas áreas da computação, desde lógica e algoritmos até desenvolvimento de aplicações completas.
 
 💼 Experiência Profissional
 
-Desenvolvedora Full Stack – VR TECH
-Atuação desde o 2º período da graduação
+Desenvolvedora Full Stack, VR TECH - Atuação desde o 2º período da graduação
 
 Atividades:
 
-Desenvolvimento e manutenção de aplicações web
+- Desenvolvimento e manutenção de aplicações web
 
-Criação e consumo de APIs
+- Criação e consumo de APIs
 
-Testes, revisão de código e correção de bugs
+- Testes, revisão de código e correção de bugs
 
-Integração entre front-end, back-end e banco de dados
+- Integração entre front-end, back-end e banco de dados
 
-Participação em melhorias de arquitetura e organização de código
+- Participação em melhorias de arquitetura e organização de código
+  
 
 🛠️ Tecnologias e Conhecimentos
+
 💻 Linguagens de Programação
 
 C#
@@ -114,21 +115,26 @@ Integração entre sistemas
 
 Organização e padronização de projetos
 
+
 🚀 Projetos em andamento
 
 Lista de Tarefas – React Native
+
 Aplicação mobile para gerenciamento de tarefas, com foco em organização e usabilidade.
 
 Sistema de Gerenciamento de Clientes – C# / .NET
+
 API para cadastro, atualização, listagem e exclusão de clientes, aplicando arquitetura em camadas e boas práticas de desenvolvimento.
 
 📈 Estatísticas do GitHub
 <a href="https://github.com/amandavicberg"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavicberg&layout=compact&langs_count=7&theme=dracula"/> </a> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=amandavicberg&theme=dracula"/> </a>
+
 📬 Contato
 
 💼 LinkedIn: (https://www.linkedin.com/in/amanda-bergamasco-840972211/)
 
 📧 Email: amandavicbergamasco@gmail.com
+
 
 🎯 Objetivos Profissionais
 
