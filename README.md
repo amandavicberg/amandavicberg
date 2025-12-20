@@ -1,66 +1,141 @@
-🌸 Olá, eu sou a Amanda! ✨
+🌸 Amanda Bergamasco
 
-Estudante de Sistemas de Informação | Desenvolvedora Full Stack | Apaixonada por tecnologia e aprendizado contínuo
+Estudante de Sistemas de Informação | Desenvolvedora Full Stack
+Focada em desenvolvimento de software, aprendizado contínuo e soluções bem estruturadas.
 
+🎓 Formação Acadêmica
 
-🎓 Estudante de Sistemas de Informação no Unifoa (6º período)
+Sistemas de Informação – UniFOA
+6º período
 
-💼 Desenvolvedora Full Stack na VR TECH desde o 2º período da faculdade
+Durante a graduação, tive contato com diversas áreas da computação, desde lógica e algoritmos até desenvolvimento de aplicações completas.
 
-💡 Sempre em busca de novos desafios e aprimoramento profissional
-<br />
+💼 Experiência Profissional
 
-🛠️ Tecnologias que utilizo/estudo
+Desenvolvedora Full Stack – VR TECH
+Atuação desde o 2º período da graduação
 
-- Front-end: Vue.js, JavaScript, Bootstrap 5
-  
-- Back-end: C#
-  
-- Banco de dados: PostgreSQL, SQL Server, MongoDB
-  
-- Mobile: React Native
-  
-- Ferramentas: Git, GitHub, Visual Studio Code, Visual Studio
-<br />
+Atividades:
+
+Desenvolvimento e manutenção de aplicações web
+
+Criação e consumo de APIs
+
+Testes, revisão de código e correção de bugs
+
+Integração entre front-end, back-end e banco de dados
+
+Participação em melhorias de arquitetura e organização de código
+
+🛠️ Tecnologias e Conhecimentos
+💻 Linguagens de Programação
+
+C#
+
+JavaScript
+
+TypeScript
+
+SQL
+
+🌐 Front-end
+
+Vue.js
+
+HTML5
+
+CSS3
+
+Bootstrap 5
+
+Consumo de APIs REST
+
+Componentização e organização de interfaces
+
+⚙️ Back-end
+
+.NET (ASP.NET Core)
+
+APIs REST
+
+Arquitetura em camadas (Controllers, Services, DTOs, Models)
+
+Validações de dados
+
+Boas práticas de organização de código
+
+🗄️ Banco de Dados
+
+SQL Server
+
+PostgreSQL
+
+MongoDB
+
+Modelagem de dados
+
+CRUD
+
+Relacionamentos e consultas
+
+📱 Mobile
+
+React Native
+
+Desenvolvimento de aplicações mobile multiplataforma
+
+🧰 Ferramentas e Ambientes
+
+Git
+
+GitHub
+
+Visual Studio Code
+
+Visual Studio
+
+Postman
+
+Terminal / CLI
+
+JSON
+
+📚 Conceitos e Práticas
+
+Lógica de programação
+
+Programação orientada a objetos (POO)
+
+Versionamento de código
+
+Testes e depuração
+
+Integração entre sistemas
+
+Organização e padronização de projetos
 
 🚀 Projetos em andamento
 
-Projeto 1: Lista de tarefas com ReactNative.
-Ptojeto 2: Sistema de gerenciamento de cliente com C#.
-<br />
+Lista de Tarefas – React Native
+Aplicação mobile para gerenciamento de tarefas, com foco em organização e usabilidade.
+
+Sistema de Gerenciamento de Clientes – C# / .NET
+API para cadastro, atualização, listagem e exclusão de clientes, aplicando arquitetura em camadas e boas práticas de desenvolvimento.
 
 📈 Estatísticas do GitHub
+<a href="https://github.com/amandavicberg"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavicberg&layout=compact&langs_count=7&theme=dracula"/> </a> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=amandavicberg&theme=dracula"/> </a>
+📬 Contato
 
-<a href="https://github.com/amandavicberg">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavicberg&layout=compact&langs_count=7&theme=dracula"/>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=amandavicberg&theme=dracula)](https://git.io/streak-stats)
+💼 LinkedIn: (https://www.linkedin.com/in/amanda-bergamasco-840972211/)
 
+📧 Email: amandavicbergamasco@gmail.com
 
-📬 Vamos conversar?
+🎯 Objetivos Profissionais
 
-💼 LinkedIn
+Continuar evoluindo como desenvolvedora full stack
 
-📧 amandavicbergamasco@gmail.com
-<br />
+Aprofundar conhecimentos em back-end e arquitetura de software
 
-🎯 Objetivos
+Atuar em projetos desafiadores que proporcionem crescimento técnico e profissional
 
-📚 Continuar aprimorando minhas habilidades em desenvolvimento full stack
-
-🚀 Buscar oportunidades que me desafiem e me permitam crescer profissionalmente
-
-<!--
-**amandavicberg/amandavicberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
