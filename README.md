@@ -27,10 +27,10 @@ Driven by clean code, structured projects, and continuous learning.
 ### 🔹 [Sistema de Agendamentos](https://github.com/amandavicberg/sistema-agendamentos)  
 Full Stack web app with C# backend and Vue.js frontend, CRUD operations and REST APIs.
 
-### 🔹 **ToDoListReactNative**  
+### 🔹 [To Do List](https://github.com/amandavicberg/ToDoListReactNative)
 Mobile task manager built with React Native.
 
-### 🔹 **Educacional**  
+### 🔹 [Educacional](https://github.com/amandavicberg/Educacional) 
 Front-end project in HTML/CSS (basic UI skills).
 
 ---
