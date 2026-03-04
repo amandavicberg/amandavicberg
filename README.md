@@ -2,7 +2,6 @@
 
 🌐 Full Stack Developer (C# .NET | JavaScript | Vue.js | SQL)  
 🎓 Systems Information Student @ UniFOA  
-💼 Junior Developer at VR Tech
 
 ---
 
